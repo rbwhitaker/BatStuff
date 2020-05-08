@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>RB Whitaker</Company>
+    <Authors>RB Whitaker</Authors>
+    <Description>A simple Bat-themed library, for doing simple Bat-themed Console work.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/rbwhitaker/bat-stuff</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
