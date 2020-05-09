@@ -7,7 +7,7 @@
     <Authors>RB Whitaker</Authors>
     <Description>A simple Bat-themed library, for doing simple Bat-themed Console work.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/rbwhitaker/bat-stuff</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/rbwhitaker/BatStuff</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
