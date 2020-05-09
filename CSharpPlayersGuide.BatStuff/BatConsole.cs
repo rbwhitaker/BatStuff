@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BatConsole
+namespace CSharpPlayersGuide.BatStuff
 {
     public class BatConsole
     {
